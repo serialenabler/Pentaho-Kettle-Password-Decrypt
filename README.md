@@ -20,3 +20,5 @@ Instructions:
 7 Execute the job,
 
 8 Check the data of the "Output"-step for the decrypted password.
+
+For more details a full pen-tester's guide has been written and posted here: https://zineausa.com/blog/2020/07/pen-test-guide-to-pentaho-business-analytics
